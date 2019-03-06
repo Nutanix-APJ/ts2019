@@ -258,6 +258,7 @@ Everything about Era
 
 *Wednesday, 1:00PM - 3:00PM - Great Hall Meeting Room 2 (7th Floor)*
 
+
 In this breakout session, we will discuss how we can provide “Database-as-a-Service” to Nutanix customers and reduce TCO for management of databases? We will also demonstrate
 
  - How we can help cut down complex database HA provisioning time from days to minutes?
