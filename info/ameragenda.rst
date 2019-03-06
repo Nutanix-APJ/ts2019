@@ -133,7 +133,7 @@ Wednesday
 
    * - 1:00 PM
      - 3:00 PM
-     - Breakout - `Breakout - Everything about Nutanix Era`_
+     - Breakout - `Everything about Nutanix Era`_
      - Great Hall Meeting Room 2 (7th Floor)
 
    * - 1:00 AM
@@ -213,7 +213,7 @@ In this deep dive breakout session we’ll cover the core architectural differen
 Ask the Product Team - Storage and HCI
 ......................................
 
-*Wednesday, 10:00AM - 11:00AM - Grand Ballroom 1*
+*Wednesday, 10:00AM - 11:00AM - Great Hall Meeting Room 1 (7th Floor)*
 
 Join this session for an opportunity to engage in live Q&A with Nutanix Product Managers and Engineers responsible for core AOS, data protection, performance, and security. Session topics include storage performance, capacity and resiliency, disaster recovery, encryption, key management, and security.
 
@@ -229,7 +229,7 @@ Panelists include:
 Ask the Product Team - Virtualization and Management
 ....................................................
 
-*Wednesday, 1:00PM - 2:00PM - Great Hall Meeting Room 1 (7th Floor)*
+*Wednesday, 11:00AM - 12:00PM - Great Hall Meeting Room 1 (7th Floor)*
 
 Join this session for an opportunity to engage in live Q&A with Nutanix Product Managers and Engineers responsible for AHV and APIs. Session topics include AHV, enterprise readiness, and Prism APIs.
 
@@ -259,6 +259,7 @@ Everything about Era
 *Wednesday, 1:00PM - 3:00PM - Great Hall Meeting Room 2 (7th Floor)*
 
 In this breakout session, we will discuss how we can provide “Database-as-a-Service” to Nutanix customers and reduce TCO for management of databases? We will also demonstrate
+
  - How we can help cut down complex database HA provisioning time from days to minutes?
  - How to take application consistent backups in matter of seconds?
  - Clone and refresh your QA, Dev and other secondary environments
