@@ -260,11 +260,12 @@ Everything about Era
 
 In this breakout session, we will discuss how we can provide “Database-as-a-Service” to Nutanix customers and reduce TCO for management of databases? We will also demonstrate:
 
-  - How we can help cut down complex database HA provisioning time from days to minutes?
-  - How to take application consistent backups in matter of seconds?
-  - Clone and refresh your QA, Dev and other secondary environments
-  - 1-click patching for your customer database environments, self-service style?
-  - Discuss other use-cases on Era.
+
+  -  How we can help cut down complex database HA provisioning time from days to minutes?
+  -  How to take application consistent backups in matter of seconds?
+  -  Clone and refresh your QA, Dev and other secondary environments
+  -  1-click patching for your customer database environments, self-service style?
+  -  Discuss other use-cases on Era.
 
 Ask the Product Team - Supportability and Operations
 ....................................................
